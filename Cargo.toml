@@ -1,0 +1,12 @@
+[package]
+name = "sdk-ai"
+version = "0.1.0"
+edition = "2024"
+authors = ["Giuseppe Della Vedova"]
+description = "AI SDK for Rust"
+homepage = "https://github.com/gi-dellav/sdk-ai"
+repository = "https://github.com/gi-dellav/sdk-ai"
+readme = "README.md"
+keywords = ["ai", "llm", "dev"]
+
+[dependencies]
